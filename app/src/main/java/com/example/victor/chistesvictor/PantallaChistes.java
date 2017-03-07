@@ -203,4 +203,8 @@ public class PantallaChistes extends AppCompatActivity {
 
         alertDialogBuilder.show();
     }
+
+
+    //avanzar es con mediaPlayer.seekTo(mediaPlayer.getCurrentPosition()+ tiempo a avanzar);
+    // o restar si queremos rebobinar
 }
